@@ -5,5 +5,5 @@ el formato MarkDown para las tablas.
 ## Listado
 | Cedula     | Nombres          | Apellidos          | Correo                     | Usuario GitHub |
 |------------|------------------|--------------------|----------------------------|----------------|
-| 25.633.733 | Luis Eduardo     | Vera Valencia      | veravluis@gmail.com        | veravluis        |
+| 25.633.733 | Luis Eduardo     | Vera Valencia      | veravluis@gmail.com        | veravluis      |
 |            |                  |                    |                            |                |
